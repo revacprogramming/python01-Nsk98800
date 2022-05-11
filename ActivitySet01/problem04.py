@@ -1,3 +1,3 @@
 # Conditional Execution
 
-hrs = input("Enter hours? ")
+hrs=input("Enter hours? ")
